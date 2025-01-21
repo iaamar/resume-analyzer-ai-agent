@@ -5,7 +5,7 @@ Paste in a website URL and extract structured data from it using LLMs.
 - Scraping YC to find the startups that best align with your resume
 
 
-![Image](../web-agent/public/results/prompt.png)
+![Image](./public/results/prompt.png)
 
 ## Scrapping results
 
@@ -15,19 +15,19 @@ Paste in a website URL and extract structured data from it using LLMs.
   -  location 
   -  company page url
 
-![Image](../web-agent/public/results/scrapping-results.png)
+![Image](./public/results/scrapping-results.png)
 
 ## Resume match
 
-![Image](../web-agent/public/results/resume-match.png)
+![Image](./public/results/resume-match.png)
 
 ## Resume not a match
 
-![Image](../web-agent/public/results/resume-unmatched.png)
+![Image](./public/results/resume-unmatched.png)
 
 ## Gemini results
 
-![Image](../web-agent/public/results/gemini-results.png)
+![Image](./public/results/gemini-results.png)
 
 
 ## Getting Started
